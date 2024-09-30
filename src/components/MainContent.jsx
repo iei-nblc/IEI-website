@@ -17,21 +17,39 @@ function MainContent() {
       </div>
               }         */
               
-              
-              <div class="containerBox">
+    <div class="container"   >       
+  <div class="containerBox">
   <div class="left-column">
     <div class="upper-text">
       <h2>Chairman NBLC</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit libero vitae risus tempor, ut commodo lorem ultrices. Nulla facilisi. Sed ac sodales ante.</p>
+      {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit libero vitae risus tempor, ut commodo lorem ultrices. Nulla facilisi. Sed ac sodales ante.</p> */}
     </div>
     <div class="lower-text">
       <h2>Secretary NBLC</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit libero vitae risus tempor, ut commodo lorem ultrices. Nulla facilisi. Sed ac sodales ante.</p>
+      {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit libero vitae risus tempor, ut commodo lorem ultrices. Nulla facilisi. Sed ac sodales ante.</p> */}
     </div>
   </div>
   <div class="right-column">
-    <img src="image1.jpg" alt="IE NBLC Image" class="image"/>
+  {/* <div class="image-container"> */}
+    <img className='image' src="image1.jpg" alt="Image 1"/>
+    {/* <img src="image2.jpg" alt="Image 2"/> */}
+ </div>
+</div>
+
+<div className="text-areas-container">
+  <div className="aboutUs">
+    <h3>About Us</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit libero vitae risus tempor, ut commodo lorem ultrices. Nulla facilisi. Sed ac sodales ante.</p>
   </div>
+  <div className="news">
+    <h3>News and Events</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit libero vitae risus tempor, ut commodo lorem ultrices. Nulla facilisi. Sed ac sodales ante.</p>
+  </div>
+  <div className="notice">
+    <h3>Notice</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit libero vitae risus tempor, commodo lorem ultrices. Nulla facilisi.</p>
+  </div>
+</div>
 </div>
 }
     </main>
