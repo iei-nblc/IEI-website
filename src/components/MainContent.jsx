@@ -21,7 +21,7 @@ function MainContent() {
   <div class="containerBox">
   <div class="left-column">
     <div class="upper-text">
-      <h2>Chairman NBLC</h2>
+      <h2>Chairman NBL</h2>
        <p>Dr. Amitava Ray</p> 
     </div>
     <div class="lower-text">
