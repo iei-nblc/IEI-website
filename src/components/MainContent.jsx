@@ -39,7 +39,7 @@ function MainContent() {
 <div className="text-areas-container">
   <div className="aboutUs">
     <h3>About Us</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit libero vitae risus tempor, ut commodo lorem ultrices. Nulla facilisi. Sed ac sodales ante.</p>
+    <p>Chinmoy</p>
   </div>
   <div className="news">
     <h3>News and Events</h3>
