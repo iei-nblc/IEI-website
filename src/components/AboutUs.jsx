@@ -8,7 +8,7 @@ function AboutUs() {
             {/* <div className="containerBox">
     <div className="textbox">
       <h2>Chairman's View</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida justo sed nisl venenatis, at finibus neque hendrerit.</p>
+      <p>Dr. Amitava Ray</p>
     </div>
     <div className="textbox">
       <h2>About Us</h2>
