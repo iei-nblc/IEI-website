@@ -4,7 +4,7 @@ function AboutUs() {
   return (
     <about className="container">
             {/* <h2>About Us</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida turpis ac turpis volutpat, non posuere leo malesuada.</p> */}
+            <p>Its a Local Center of IEI consist of 6 district of Nort Bengal</p> */}
             {/* <div className="containerBox">
     <div className="textbox">
       <h2>Chairman's View</h2>
