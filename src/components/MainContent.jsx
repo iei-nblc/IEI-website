@@ -22,7 +22,7 @@ function MainContent() {
   <div class="left-column">
     <div class="upper-text">
       <h2>Chairman NBLC</h2>
-      { <p>Dr. Amitava Ray</p> }
+       <p>Dr. Amitava Ray</p> 
     </div>
     <div class="lower-text">
       <h2>Secretary NBLC</h2>
